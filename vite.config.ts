@@ -9,7 +9,7 @@ import dotenv from 'dotenv'
 // @see https://vitejs.dev/config/server-options.html#server-host.
 dns.setDefaultResultOrder("verbatim")
 
-dotenv.config()
+// dotenv.config()
 
 console.log("medusaa api",env.MEDUSA_BACKEND_URL)
 
